@@ -34,10 +34,10 @@ ISTQB -in progress
 [Bug Reports for TODO app](https://drive.google.com/file/d/1Lw3AXrczIGexxnNjUqI0XHSLYMc-V3Kp/view?usp=sharing)
 
 # My SQL Query
-[SQL query](https://drive.google.com/drive/folders/1WlkEKR_7sBPtTJuQvB9hJZSF7geaXYic?usp=sharing)
+[SQL query](https://drive.google.com/file/d/1EGsaM4RfboDhmBJjsGLuGTde20T8D6mX/view?usp=sharing)
 
 # My Postman Practice
-[API Trello](https://drive.google.com/drive/folders/13Umn0oJENIB59wHnEwujVgV1wcZ89cNH?usp=drive_link)
+[API Trello](https://drive.google.com/file/d/19i3rkz8BsIVvCfzhkDgY8B3RAyA5wlY0/view?usp=sharing)
 
 
 
